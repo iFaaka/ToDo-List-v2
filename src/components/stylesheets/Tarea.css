@@ -1,0 +1,15 @@
+.tarea-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1vh;
+    background-color: lightblue;
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+.tachado {
+    text-decoration: line-through;
+}
