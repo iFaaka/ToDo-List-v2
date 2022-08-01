@@ -2,12 +2,15 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 1vh;
-    background-color: lightblue;
+    margin-top: 1.3vh;
+    background-color: #9619FF;
     padding: 5px 10px;
     border-radius: 15px;
     font-size: 20px;
     text-transform: capitalize;
+    user-select: none;
+    cursor: pointer;
+
 }
 
 .tachado {
